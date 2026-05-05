@@ -13,7 +13,7 @@ ls
 ```
 
 **Результат:**  
-(тут вставляєш скрін або текст виводу)
+<img width="796" height="179" alt="image" src="https://github.com/user-attachments/assets/7fa8a13d-8390-4f3d-9a6c-25cc53a04930" />
 
 ---
 
@@ -25,7 +25,8 @@ ls
 ```
 
 **Результат:**  
-(тут вставляєш скрін або текст виводу)
+<img width="795" height="350" alt="image" src="https://github.com/user-attachments/assets/e7552f33-4399-4683-945c-5eef54720d40" />
+<img width="786" height="531" alt="image" src="https://github.com/user-attachments/assets/9ec47cd8-8e7b-4d66-bd5a-f753a9e8f6b4" />
 
 ---
 
@@ -37,7 +38,7 @@ ls
 ```
 
 **Результат:**  
-(тут вставляєш скрін або текст виводу)
+<img width="805" height="67" alt="image" src="https://github.com/user-attachments/assets/30fad94e-3b12-492e-a151-c5e7e3961258" />
 
 ---
 
@@ -86,7 +87,7 @@ find ~ -name "file.txt"
 ```
 
 **Результат:**  
-(тут вставляєш шлях, який показало)
+<img width="810" height="135" alt="image" src="https://github.com/user-attachments/assets/64ca3605-8974-4f42-bb3f-fed6ecf64b18" />
 
 ---
 
@@ -99,7 +100,7 @@ ls -l ~/lab2/file.txt
 ```
 
 **Результат:**  
-(тут вставляєш вивід)
+<img width="722" height="45" alt="image" src="https://github.com/user-attachments/assets/256586f3-4d8d-4349-80ab-daab459654b0" />
 
 ---
 
@@ -122,7 +123,7 @@ umask
 ```
 
 **Результат:**  
-(тут вставляєш значення)
+<img width="791" height="132" alt="image" src="https://github.com/user-attachments/assets/f05d7e2c-c7bd-4a3b-a367-4cd9f5681592" />
 
 ---
 
@@ -143,7 +144,7 @@ sudo adduser trainee
 ```
 
 **Результат:**  
-(тут вставляєш скрін або текст створення користувача)
+<img width="793" height="463" alt="image" src="https://github.com/user-attachments/assets/42efe92f-2f4f-4ec2-9d9f-ffd47337d494" />
 
 ---
 
@@ -160,7 +161,7 @@ grep trainee /etc/passwd
 ```
 
 **Результат:**  
-(тут вставляєш рядок типу  
-`trainee:x:1001:1001:Octopus,,,:/home/trainee:/bin/bash`)
+<img width="803" height="178" alt="image" src="https://github.com/user-attachments/assets/5d29d580-d0e2-4050-bccf-0f7f6aaf734b" />
+
 
 ---
